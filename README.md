@@ -1,9 +1,21 @@
-Technology: Artificial Intelligence
-Team ID: IBM-40462-1662631417
+Technology: 
 
-Team Leader: Avinash.S
+Artificial Intelligence
 
-Team Members: Cherrish.B , Sai Gowtham.A , Harsha Vardharan.D
+Team ID:
+
+IBM-40462-1662631417
+
+Team Leader: 
+Avinash.S
+
+Team Members: 
+
+Cherrish.B 
+
+Sai Gowtham.A 
+
+Harsha Vardharan.D
 
 
 Tasks
