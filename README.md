@@ -4,22 +4,36 @@ Team ID: IBM-40462-1662631417
 Team Leader: Avinash.S
 
 Team Members: Cherrish.B , Sai Gowtham.A , Harsha Vardharan.D
+
+
 Tasks
 Project Design & Planning
-     Ideation Phase
-           Literature Survey
-           Identantio
+    
+    Ideation Phase
+          
+          Literature Survey
+          
+          Identantio
+           
            Empathy Map
    
+   
    Project Design Phase 1
-           Proposed Solution
-           Problem-Solution Fit
+          
+          Proposed Solution
+          
+          Problem-Solution Fit
+           
            Solution Architecture
    
-   Project Design Phase 2
-           Customer Journey Maps
-           Functional Requirements
-           Data Flow Diagrams
+  
+  Project Design Phase 2
+         
+         Customer Journey Maps
+         
+         Functional Requirements
+          
+          Data Flow Diagrams
 
 About The Project
          Project Description:
@@ -36,4 +50,5 @@ Project Objectives:
         Deploy skill to generate a preview link
 
 Services Used:
+
 IBM Watson Assistant
